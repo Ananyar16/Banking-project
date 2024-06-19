@@ -1,0 +1,31 @@
+Emp_ID,Name,Salary,Branch,Position,State,Parent Name,Address,Phone no.,Aadhar no.,PAN card no.,Joining date ,DOB(DDMMYYYY),Pension Status,Retirement status,Provident fund
+E1001,Rakesh Sharma,50000,Delhi,Branch manager,Delhi,S.K Sharma,"Janak Puri, New Delhi",9876543219,1234 7654 9087,ASWFE4790X,21 09 1997,30 08 1976,NA,NA,6000
+E1002,Manjot Kaur,45000,Chandigarh,Financial Advisor,Punjab,Harjot Singh,"Sec-16,Chandigarh",9865432198,4567 1238 8097,MNBV3289Y,3 03 2001,4 10 1986,NA,NA,5400
+E1003,Saurav Joshi,47000,Kolkata,Loan processor,West Bengal,A.K Joshi,"Dum Dum, Kolkata",9854321177,1235 7654 9087,QWSE1233I,19 12 1999,31 08 1976,NA,NA,5640
+E1004,Arjun Singh,40000,Lucknow,Banker,Uttarpradesh,Ajay Singh,"Gomti Nagar,Lucknow",9843210156,4568 1238 8097,ASWFE4790X,4 03 2001,5 10 1986,NA,NA,4800
+E1005,Seema Jain,42000,Bhopal,Credit Analyst,Madhyapradesh,Rajesh Jain,"Arera colony, Bhopal",9832099135,1236 7654 9087,MNBV3289Y,20 12 1999,3 09 1976,NA,NA,5040
+E1006,Rhea Modi,48000,Ahemadabad,mortgage consultant,Gujarat,Hasmukh Modi,"Prahlad Nagar, Ahemdabad",9820988114,4569 1238 8097,QWSE1233I,5 03 2001,6 10 1986,NA,NA,5760
+E1007,Salim Ali,43000,Ahemadabad,Investment Representative,Gujarat,Muhammad Ali,"Ambli-Bopal,Ahmedabad",9809877093,1237 7654 9087,ASWFE4790X,21 12 1999,6 08 1971,NA,NA,5160
+E1008,Suhani Agarwal,46000,Mumbai,Financial Analyst,Maharasthra,Priya Agarwal,"Chembur,Mumbai",9798766072,4570 1238 8097,MNBV3289Y,6 03 2001,7 10 1986,NA,NA,5520
+E1009,Dev Kumar,41000,Lucknow,Relationship manager,Uttarpradesh,Rakesh Kumar,"Hazratganj,Lucknow",9787655051,1238 7654 9087,QWSE1233I,22 12 1999,6 08 1969,NA,NA,4920
+E1010,Neha Kaushal,44000,Mumbai,Asset manager,Maharasthra,Tarun Kaushal,"Andheri, Mumbai",9776544030,4571 1238 8097,ASWFE4790X,7 03 2001,8 10 1986,NA,NA,5280
+E1011,Shubham Rawat,39000,Gurugram,Underwriter,Haryana,RK Rawat,"Sec-45,Gurugram",9765433009,1239 7654 9087,MNBV3289Y,23 12 1999,5 08 1969,NA,NA,4680
+E1012,Ramya Malhotra,49000,Mumbai,Internal editor,Maharasthra,Dev Malhotra ,"Worli, Mumbai",9754321988,4572 1238 8097,QWSE1233I,8 03 2001,9 10 1986,NA,NA,5880
+E1013,Gargi Chawla,47000,Dheradun,Investment Banking Analyst,Uttrakhand,Shivam Chawla,"Prem Nagar,Dheradun",9743210967,1240 7654 9087,ASWFE4790X,24 12 1999,4 08 1969,NA,NA,5640
+E1014,Tushar Singhal,44000,Delhi,Loan officer ,Delhi,Raj Singhal,"Rohini, New Delhi",9732099946,4573 1238 8097,MNBV3289Y,9 03 2001,10 10 1986,NA,NA,5280
+E1015,Aarushi Gulati ,30000,Gurugram,Receptionist ,Haryana,Sanjeev Gulati ,"Sec-26, Gurugram",9720988925,1241 7654 9087,QWSE1233I,25 12 1999,3 08 1969,NA,NA,3600
+E1016,Varun Sharma,50000,Nagpur,Branch manager,Maharasthra,A.S Sharma,"Omkar Nagar, Nagpur",9709877904,4574 1238 8097,ASWFE4790X,10 03 2001,11 10 1986,NA,NA,6000
+E1017,V.R Venugopal,45000,Chennai,Financial Advisor,Tamilnadu,Venugopal Swami,"Anna Nagar, Chennai",9698766883,1242 7654 9087,MNBV3289Y,26 12 1999,2 08 1969,NA,NA,5400
+E1018,Suresh Yadav,47000,Delhi,Loan processor,Delhi,Dinesh Yadav,"Pritampura,New Delhi",9687655862,4575 1238 8097,QWSE1233I,11 03 2001,12 10 1986,NA,NA,5640
+E1019,Praveen Rampal,40000,Surat,Banker,Gujarat,Rakesh Rampal,"Piplod, Surat",9676544841,1243 7654 9087,ASWFE4790X,27 12 1999,1 08 1969,NA,NA,4800
+E1020,Sunita Ashok,42000,Hyderabad,Credit Analyst,Telegana,W.R Ashok,"Banjara Hills, Hyderabad",9665433820,4576 1238 8097,MNBV3289Y,12 03 2001,13 10 1986,NA,NA,5040
+E1021,Riya Singh,48000,Mumbai,mortgage consultant,Maharasthra,Yashpal Singh,"Kharghar,Navi Mumbai",9654322799,1244 7654 9087,QWSE1233I,28 12 1999,0 08 1969,NA,NA,5760
+E1022,Divya Rajput,43000,Jaipur,Investment Representative,Rajasthan,Vikram Rajput,"Malviya Nagar, Jaipur",9643211778,4577 1238 8097,ASWFE4790X,13 03 2001,14 10 1986,NA,NA,5160
+E1023,Ansh Kumar,46000,Patna,Financial Analyst,Bihar,Archana Kumar,"Apurvanchal Complex, Patna",9632100757,1245 7654 9087,MNBV3289Y,29 12 1999,1 08 1969,NA,NA,5520
+E1024,Rishabh Sharma,41000,Patiala,Relationship manager,Punjab,E.K Sharma,"Anand Nagar, Patiala",9620989736,4578 1238 8097,QWSE1233I,14 03 2001,15 10 1986,NA,NA,4920
+E1025,Rohit Thakur,44000,Jaipur,Asset manager,Rajasthan,Om Prakash Thakur,"Vaishali Nagar,Jaipur",9609878715,1246 7654 9087,ASWFE4790X,30 12 1999,2 08 1969,NA,NA,5280
+E1026,Sparsh Dhavan,39000,Chandigarh,Underwriter,Punjab,Rohit Dhawan,"Sec-2, Chandigarh",9598767694,4579 1238 8097,MNBV3289Y,15 03 2001,16 10 1986,NA,NA,4680
+E1027,Pawan Kohli,49000,Pune,Internal editor,Maharasthra,Manoj Kolhi,"Karve Nagar, Pune",9587656673,1247 7654 9087,QWSE1233I,31 12 1999,3 08 1969,NA,NA,5880
+E1028,Saina Sindhu,47000,Bengaluru,Investment Banking Analyst,Karnataka,Saurav Sindhu,"Indira Nagar, Bengaluru",9576545652,4580 1238 8097,ASWFE4790X,16 03 2001,17 10 1986,NA,NA,5640
+E1029,Priyanka Kejriwal,44000,Dheradun,Loan officer ,Uttrakhand,Virat Kejriwal,"Vasant Vihar, Dheradun",9565434631,1248 7654 9087,MNBV3289Y,2 12 1999,4 08 1969,NA,NA,5280
+E1030,Prajakta Koli,30000,Bengaluru,Receptionist ,Karnataka,Narendra Koli,"Jayanagar, Bengaluru",9554323610,4581 1238 8097,QWSE1233I,17 03 2001,18 10 1986,NA,NA,3600

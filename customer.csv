@@ -1,0 +1,32 @@
+Account Number,Name,Parent Name,Address,Phone no.,Aadhar no.,PAN card no.,DOB(DDMMYYYY),no. of loans,Loan status,Mortgage,Account balance,Amount credited,Amount debited,Locker availed,Mutual funds,Investment in mutual funds
+101897654,Rakesh Sharma,S.K Sharma,"Janak Puri, New Delhi",9876543219,1234 7654 9087,ASWFE4790X,30 08 1976,2,paid,Property,120000,150000,30000,yes,no,NA
+113259607,Manjot Kaur,Harjot Singh,"Sec-16,Chandigarh",9865432198,4567 1238 8097,MNBV3289Y,4 10 1986,1,in process,Property,316000,370000,54000,yes,yes,10000
+124621560,Saurav Joshi,A.K Joshi,"Dum Dum, Kolkata",9854321177,1235 7654 9087,QWSE1233I,31 08 1976,3,in process,jewellery,512000,590000,78000,no,no,NA
+135983513,Arjun Singh,Ajay Singh,"Gomti Nagar,Lucknow",9843210156,4568 1238 8097,ASWFE4790X,5 10 1986,0,NA,NA,708000,810000,102000,yes,no,NA
+147345466,Seema Jain,Rajesh Jain,"Arera colony, Bhopal",9832099135,1236 7654 9087,MNBV3289Y,3 09 1976,5,in process,Property,904000,1030000,126000,no,yes,50000
+158707419,Rhea Modi,Hasmukh Modi,"Prahlad Nagar, Ahemdabad",9820988114,4569 1238 8097,QWSE1233I,6 10 1986,3,paid,Property,1100000,1250000,150000,no,yes,12500
+170069372,Salim Ali,Muhammad Ali,"Ambli-Bopal,Ahmedabad",9809877093,1237 7654 9087,ASWFE4790X,6 08 1971,1,paid,jewellery,1296000,1470000,174000,yes,yes,42000
+181431325,Suhani Agarwal,Priya Agarwal,"Chembur,Mumbai",9798766072,4570 1238 8097,MNBV3289Y,7 10 1986,2,in process,jewellery,1492000,1690000,198000,yes,no,NA
+192793278,Dev Kumar,Rakesh Kumar,"Hazratganj,Lucknow",9787655051,1238 7654 9087,QWSE1233I,6 08 1969,0,NA,NA,1688000,1910000,222000,yes,yes,300000
+204155231,Neha Kaushal,Tarun Kaushal,"Andheri, Mumbai",9776544030,4571 1238 8097,ASWFE4790X,8 10 1986,2,paid,Property,1884000,2130000,246000,no,no,NA
+215517184,Shubham Rawat,RK Rawat,"Sec-45,Gurugram",9765433009,1239 7654 9087,MNBV3289Y,5 08 1969,1,in process,Property,2320000,2350000,30000,yes,no,NA
+226879137,Ramya Malhotra,Dev Malhotra ,"Worli, Mumbai",9754321988,4572 1238 8097,QWSE1233I,9 10 1986,3,in process,jewellery,2516000,2570000,54000,no,yes,68000
+238241090,Gargi Chawla,Shivam Chawla,"Prem Nagar,Dheradun",9743210967,1240 7654 9087,ASWFE4790X,4 08 1969,0,NA,NA,2712000,2790000,78000,no,no,NA
+249603043,Tushar Singhal,Raj Singhal,"Rohini, New Delhi",9732099946,4573 1238 8097,MNBV3289Y,10 10 1986,5,in process,Property,2908000,3010000,102000,yes,no,NA
+260964996,Aarushi Gulati ,Sanjeev Gulati ,"Sec-26, Gurugram",9720988925,1241 7654 9087,QWSE1233I,3 08 1969,3,paid,Property,3104000,3230000,126000,yes,yes,89000
+272326949,Varun Sharma,A.S Sharma,"Omkar Nagar, Nagpur",9709877904,4574 1238 8097,ASWFE4790X,11 10 1986,1,in process,jewellery,3300000,3450000,150000,yes,yes,34000
+283688902,V.R Venugopal,Venugopal Swami,"Anna Nagar, Chennai",9698766883,1242 7654 9087,MNBV3289Y,2 08 1969,2,paid,Property,3496000,3670000,174000,no,yes,17000
+295050855,Suresh Yadav,Dinesh Yadav,"Pritampura,New Delhi",9687655862,4575 1238 8097,QWSE1233I,12 10 1986,0,NA,NA,3692000,3890000,198000,yes,no,NA
+306412808,Praveen Rampal,Rakesh Rampal,"Piplod, Surat",9676544841,1243 7654 9087,ASWFE4790X,1 08 1969,2,paid,Property,3888000,4110000,222000,no,yes,65000
+317774761,Sunita Ashok,W.R Ashok,"Banjara Hills, Hyderabad",9665433820,4576 1238 8097,MNBV3289Y,13 10 1986,1,paid,Property,4084000,4330000,246000,no,no,NA
+329136714,Riya Singh,Yashpal Singh,"Kharghar,Navi Mumbai",9654322799,1244 7654 9087,QWSE1233I,0 08 1969,3,paid,jewellery,4520000,4550000,30000,yes,no,NA
+340498667,Divya Rajput,Vikram Rajput,"Malviya Nagar, Jaipur",9643211778,4577 1238 8097,ASWFE4790X,14 10 1986,0,NA,NA,4716000,4770000,54000,yes,yes,5200
+351860620,Ansh Kumar,Archana Kumar,"Apurvanchal Complex, Patna",9632100757,1245 7654 9087,MNBV3289Y,1 08 1969,5,in process,Property,4912000,4990000,78000,yes,no,NA
+363222573,Rishabh Sharma,E.K Sharma,"Anand Nagar, Patiala",9620989736,4578 1238 8097,QWSE1233I,15 10 1986,3,paid,Property,5108000,5210000,102000,no,no,NA
+374584526,Rohit Thakur,Om Prakash Thakur,"Vaishali Nagar,Jaipur",9609878715,1246 7654 9087,ASWFE4790X,2 08 1969,1,in process,jewellery,5304000,5430000,126000,yes,yes,20500
+385946479,Sparsh Dhavan,Rohit Dhawan,"Sec-2, Chandigarh",9598767694,4579 1238 8097,MNBV3289Y,16 10 1986,2,paid,Property,5500000,5650000,150000,no,yes,11000
+397308432,Pawan Kohli,Manoj Kolhi,"Karve Nagar, Pune",9587656673,1247 7654 9087,QWSE1233I,3 08 1969,0,NA,NA,5696000,5870000,174000,no,yes,200000
+408670385,Saina Sindhu,Saurav Sindhu,"Indira Nagar, Bengaluru",9576545652,4580 1238 8097,ASWFE4790X,17 10 1986,2,in process,Property,5892000,6090000,198000,yes,no,NA
+420032338,Priyanka Kejriwal,Virat Kejriwal,"Vasant Vihar, Dheradun",9565434631,1248 7654 9087,MNBV3289Y,4 08 1969,1,paid,Property,6088000,6310000,222000,yes,yes,61000
+431394291,Prajakta Koli,Narendra Koli,"Jayanagar, Bengaluru",9554323610,4581 1238 8097,QWSE1233I,18 10 1986,3,in process,jewellery,6284000,6530000,246000,yes,no,NA
+,,,,,,,,,,,,,,,,
